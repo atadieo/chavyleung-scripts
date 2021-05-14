@@ -49,18 +49,6 @@
       ]
     },
     {
-      "id": "bcz",
-      "name": "百词斩",
-      "keys": ["senku_cookie_bcz", "senku_key_bcz"],
-      "author": "@GideonSenku",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/bcz",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/bcz/bcz.js",
-      "icons": [
-        "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/bcz.png",
-        "https://raw.githubusercontent.com/Orz-3/mini/master/Color/bcz.png"
-      ]
-    },
-    {
       "id": "BAIDU",
       "name": "百度签到",
       "keys": ["chavy_cookie_tieba"],
@@ -206,18 +194,6 @@
       "icons": [
         "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/videoqq.png",
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/videoqq.png"
-      ]
-    },
-    {
-      "id": "wanda",
-      "name": "万达电影",
-      "keys": ["senku_wanda_mi_"],
-      "author": "@GideonSenku",
-      "repo": "https://github.com/chavyleung/scripts/tree/master/wanda",
-      "script": "https://raw.githubusercontent.com/chavyleung/scripts/master/wanda/wanda.js",
-      "icons": [
-        "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/wanda.png",
-        "https://raw.githubusercontent.com/Orz-3/mini/master/Color/wanda.png"
       ]
     },
     {
